@@ -2,6 +2,8 @@
 
 Projeto com intenção de exibição para a MPX Brasil.
 
+####**VueJS3 + bootstrap + Jquery**
+
 ### ATENÇÃO
 
 Os scripts ```serve``` ```build``` e ```lint```, presentes no ```package.json``` estão preparados para a versão do node 17+.
